@@ -1,0 +1,39 @@
+
+D
+java:S1481"'Remove this unused "b2" local variable.(‹¾Ï8¨¨Ï½„/
+C
+java:S1481	"&Remove this unused "b" local variable.(ƒƒÑ«8şË½„/
+I
+java:S1481"'Remove this unused "s1" local variable.(—¯˜şÿÿÿÿ8éóÕ½„/
+X	java:S125"<This block of commented-out lines of code should be removed.(íßĞÈ8¯õ”¾„/
+H
+java:S1481"&Remove this unused "s" local variable.(ÏÑ¾æÿÿÿÿÿ8É®Ô½„/
+W
+java:S1854"5Remove this useless assignment to local variable "i".(ıÏ³‡úÿÿÿÿ8É×½„/
+X
+java:S1854"6Remove this useless assignment to local variable "s1".(—¯˜şÿÿÿÿ8éóÕ½„/
+X
+java:S1854"6Remove this useless assignment to local variable "s2".(Ò‹¡Íÿÿÿÿÿ8éóÕ½„/
+X
+java:S1854
+"6Remove this useless assignment to local variable "b1".(ÑÀ±Ûúÿÿÿÿ8¨¨Ï½„/
+X	java:S125"<This block of commented-out lines of code should be removed.(»­×8â¿Ó½„/
+H
+java:S1481"&Remove this unused "i" local variable.(ıÏ³‡úÿÿÿÿ8É×½„/
+S
+java:S1854"6Remove this useless assignment to local variable "b2".(‹¾Ï8¨¨Ï½„/
+S
+java:S1854"6Remove this useless assignment to local variable "c2".(éÌ³­8îçÑ½„/
+X
+java:S1854"6Remove this useless assignment to local variable "c1".(Ô²É‹üÿÿÿÿ8îçÑ½„/
+I
+java:S1481
+"'Remove this unused "b1" local variable.(ÑÀ±Ûúÿÿÿÿ8ÏÍ½„/
+C
+java:S1481"&Remove this unused "c" local variable.(œÓ¾“8îçÑ½„/
+D
+java:S1481"'Remove this unused "c2" local variable.(éÌ³­8îçÑ½„/
+I
+java:S1481"'Remove this unused "s2" local variable.(Ò‹¡Íÿÿÿÿÿ8éóÕ½„/
+I
+java:S1481"'Remove this unused "c1" local variable.(Ô²É‹üÿÿÿÿ8îçÑ½„/
